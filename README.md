@@ -1,4 +1,4 @@
-# School Management System Client
+# School Management System
 
 School Management System is a web application that allows schools to manage their daily operations.
 
